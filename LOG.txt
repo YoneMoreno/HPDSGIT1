@@ -197,3 +197,60 @@ aae3384 Ponemos cap 3
 5f08be0 ANADIMOS el Capitulo 1
 4c4d9bd COMMIT de Indice y LOG guardado:
 9c08582 COMMIT del Indice y del Log 1
+commit 9879089c89998df1081d0a85270488f6236a60a4
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 10:05:22 2017 +0100
+
+
+PUNTO 1 PRACTICA 2 paso1 
+
+
+    LOOG ADDED!
+
+commit 9d453d53755605a84d0d09c3ea334ea5119f8a85
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 10:00:00 2017 +0100
+
+    COMMIT CAP 4 first time
+
+commit bb611ab99bc42145c33fa5c0da211a122ae16aa9
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:59:32 2017 +0100
+
+    COMMIT UPDATE  INDICE
+
+commit 341c3aec8f1aacd8efa0e57072236eb4effe380d
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:58:39 2017 +0100
+
+    COMMIT UPDATE CAP 1
+
+commit aae3384ba7a88750ea463f961ab24308e5f79a87
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:53:08 2017 +0100
+
+    Ponemos cap 3
+
+commit 90acdd80bb387f69881c4f1c8a4abaee525f6205
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:52:43 2017 +0100
+
+    CAP 2 guardado
+
+commit 5f08be01eca69fbe0acdfbf5205aea9f72f68f52
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:51:57 2017 +0100
+
+    ANADIMOS el Capitulo 1
+
+commit 4c4d9bd33756319faea2303f497052ef72898a87
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:45:12 2017 +0100
+
+    COMMIT de Indice y LOG guardado:
+
+commit 9c08582223716474601a2c84e03ad7382abbfe9a
+Author: YONE <yonem9@gmail.com>
+Date:   Thu Sep 28 09:40:48 2017 +0100
+
+    COMMIT del Indice y del Log 1
